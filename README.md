@@ -5,6 +5,7 @@ The Crypto-Dashboard was a small universitary project to get a feel for python. 
 * btc, eth, bnb, ada, xrp, sol, dot, doge, trx, avax  
   
 > You will need a Twitter development account to run the program with your login credentials!  
+
 https://user-images.githubusercontent.com/103263811/199002976-c20c65b3-4112-4cd7-970b-12b6432d5e93.mp4
   
 ## Technologies
