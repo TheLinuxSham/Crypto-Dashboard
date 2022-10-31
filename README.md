@@ -4,7 +4,7 @@
 The Crypto-Dashboard was a small universitary project to get a feel for python. It uses different APIs to collect data for various crypto currencys. The data includes current prices, trends, trades as well as Twitters latest Tweets about the cryptos and a sentiment analyse. It uses Plotly to create a website and show you all the Info. Featured currencys are:  
 * btc, eth, bnb, ada, xrp, sol, dot, doge, trx, avax  
   
-> You will need a Twitter development account to run the program with your login credentials!
+> You will need a Twitter development account to run the program with your login credentials!  
 https://user-images.githubusercontent.com/103263811/199002976-c20c65b3-4112-4cd7-970b-12b6432d5e93.mp4
   
 ## Technologies
