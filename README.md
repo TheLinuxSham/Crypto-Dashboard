@@ -5,6 +5,7 @@ The Crypto-Dashboard was a small universitary project to get a feel for python. 
 * btc, eth, bnb, ada, xrp, sol, dot, doge, trx, avax  
   
 > You will need a Twitter development account to run the program with your login credentials!
+https://user-images.githubusercontent.com/103263811/199002976-c20c65b3-4112-4cd7-970b-12b6432d5e93.mp4
   
 ## Technologies
 The program uses python to function. You can download python [here](https://www.python.org/downloads/).  
@@ -15,12 +16,9 @@ pip3 --version
 
 ## The Setup
 
-This program relies on different libraries to run. There's a *requierements.txt* in the folder you can open to see which they are. To install them, run this command when you're inside the directory
+This program relies on different libraries to run. There's a *requirements.txt* in the folder you can open to see which they are. To install them, run this command when you're inside the directory
 ```
 pip install -r requirements.txt
 ```
 You will also need to change login credentials in *SentimentAnalyse.py* line 7-10 and in *TwitterApi.py* line 7-10. When the program is run it will create a website on localhost (http://0.0.0.0:8080/).
-
-
-https://user-images.githubusercontent.com/103263811/199002976-c20c65b3-4112-4cd7-970b-12b6432d5e93.mp4
 
