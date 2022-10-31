@@ -5,13 +5,16 @@ The Crypto-Dashboard was a small universitary project to get a feel for python. 
 * btc, eth, bnb, ada, xrp, sol, dot, doge, trx, avax  
   
 > You will need a Twitter development account to run the program with your login credentials!
-
-## The Setup
+  
+## Technologies
 The program uses python to function. You can download python [here](https://www.python.org/downloads/).  
 You might also want to check for pip installation with following command in your terminal. If pip is missing you can check this [documentary](https://pip.pypa.io/en/stable/installation/).  
 ```
 pip3 --version
-```
+``` 
+
+## The Setup
+
 This program relies on different libraries to run. There's a *requierements.txt* in the folder you can open to see which they are. To install them, run this command when you're inside the directory
 ```
 pip install -r requirements.txt
