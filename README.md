@@ -19,4 +19,8 @@ This program relies on different libraries to run. There's a *requierements.txt*
 ```
 pip install -r requirements.txt
 ```
-You will also need to change login credentials in *SentimentAnalyse.py* line 7-10 and in *TwitterApi.py* line 7-10. When the program is run it will create a website on localhost (0.0.0.0:8080).
+You will also need to change login credentials in *SentimentAnalyse.py* line 7-10 and in *TwitterApi.py* line 7-10. When the program is run it will create a website on localhost (http://0.0.0.0:8080/).
+
+
+https://user-images.githubusercontent.com/103263811/199002976-c20c65b3-4112-4cd7-970b-12b6432d5e93.mp4
+
