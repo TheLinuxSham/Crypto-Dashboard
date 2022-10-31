@@ -8,7 +8,7 @@ The Crypto-Dashboard was a small universitary project to get a feel for python. 
   
 ## Technologies
 The program uses python to function. You can download python [here](https://www.python.org/downloads/).  
-You might also want to check for pip installation with following command in your terminal. If pip is missing you can check this [documentary](https://pip.pypa.io/en/stable/installation/).  
+You might also want to check for pip installation with following command in your terminal. If pip is missing you can check out this [documentary](https://pip.pypa.io/en/stable/installation/).  
 ```
 pip3 --version
 ``` 
@@ -19,4 +19,4 @@ This program relies on different libraries to run. There's a *requierements.txt*
 ```
 pip install -r requirements.txt
 ```
-You will also need to change login credentials in *SentimentAnalyse.py* line 7-10 and in *TwitterApi.py* line 7-10.
+You will also need to change login credentials in *SentimentAnalyse.py* line 7-10 and in *TwitterApi.py* line 7-10. When the program is run it will create a website on localhost (0.0.0.0:8080).
