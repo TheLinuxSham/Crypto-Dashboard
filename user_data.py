@@ -22,8 +22,8 @@ json_request_list = {
 
 """"This section is for the twitter-sentiment-analysis and tweets-board. Change the number accordingly if you want to 
 have more/less tweets to be processed"""
-limitSentiment = 0
-limitTweets = 0
+limitSentiment = 50
+limitTweets = 5
 
 currency_value = ['Bitcoin', 'Ethereum', 'Binance Coin', 'Cardano', 'Ripple', 'Solana', 'Polkadot', 'Dogecoin',
                   'Avalanche', 'Tron']
