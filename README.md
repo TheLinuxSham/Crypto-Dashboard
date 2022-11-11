@@ -22,4 +22,6 @@ This program relies on different libraries to run. There's a *requirements.txt* 
 pip install -r requirements.txt
 ```
 You will also need to change login credentials in *user_data.py*. When the program is run it will create a website on localhost (http://0.0.0.0:8080/).
+ 
+The code has been simplified and shortened. Also switched to english language partially. Theoretically another currency can be added through *user_data.py*. 
 
